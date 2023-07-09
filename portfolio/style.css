@@ -128,4 +128,7 @@ main{
 #what-i-do-description{
     padding: 30px 150px;
 }
-    
+  /* skills style */
+.div-container{
+    display: flex;
+}
